@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Treasure Hunt Scanner</string>
+    <string name="hints">Scan to get Hints</string>
+    <string name="scan">Scan</string>
+</resources>
